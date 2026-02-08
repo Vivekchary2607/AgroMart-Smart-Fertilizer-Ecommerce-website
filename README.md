@@ -113,6 +113,11 @@ The application is fully responsive and works on:
 - Various screen sizes and orientations
 - 
 ## 📝 License
+Copyright © 2026 Vivek Chary
+
+All rights reserved.
+This source code may not be copied, modified, or distributed without explicit permission.
+
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
